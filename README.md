@@ -1,3 +1,3 @@
 # test-repo
-First testing repo /n
+First testing repo. 
 A collections exercises of  python
